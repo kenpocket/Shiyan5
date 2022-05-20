@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Shiyan5.iml" filepath="$PROJECT_DIR$/.idea/Shiyan5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Shiyan5Demo/.idea/Shiyan5Demo.iml" filepath="$PROJECT_DIR$/../Shiyan5Demo/.idea/Shiyan5Demo.iml" />
+    </modules>
+  </component>
+</project>
